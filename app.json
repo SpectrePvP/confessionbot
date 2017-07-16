@@ -1,4 +1,5 @@
 {
 	"prefix": "#",
-	"name": "ConfessionBot"
+	"name": "ConfessionBot",
+	"repository": "https://github.com/SpectrePvP/confessionbot"
 }
