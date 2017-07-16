@@ -1,0 +1,15 @@
+{
+  "name": "confessionbot",
+  "version": "0.0.1",
+  "description": "Send Anonymous Confessions",
+  "main": "bot.js",
+  "author": "",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "moment": "^2.18.1",
+    "request": "^2.81.0"
+  }
+}
